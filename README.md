@@ -9,7 +9,7 @@
 
 Sou o Gabriel Araujo, Full Stack Developer, Engenheiro Mecatrônico, Empresário e apaixonado por tecnologia.
 
-- 💬: Desenvolvimento de e-commerce, plataformas: VTEX, Ciashop, Tray, Loja Integrada, Magento. 
+- 💬 Desenvolvimento de e-commerce, plataformas: VTEX, Ciashop, Tray, Loja Integrada, Magento. 
 - :office_worker: Desenvolvedor na [**Agência ZIG**](https://agenciazig.com.br)
 - :office_worker: Dono da [**Galopêra Digital**](https://galopera.digital)
 - :blue_heart: Techs: Wordpress, Laravel 5+, CSS, PHP, JavaScript, jQuery, Node.js, VueJS, React Native, Docker, TypeScript, entre outras.
