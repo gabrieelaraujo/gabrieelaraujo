@@ -18,7 +18,7 @@ Sou o Gabriel Araujo, Full Stack Developer, Engenheiro Mecatrônico, Empresário
 
 > :octocat: [galopera.digital](https://galopera.digital)
 
-## ⚡⚡ Projetos já desenvolvidos: [Acessar Lista](https://gist.githubusercontent.com/gabrieelaraujo/4f358b5e588c1eb39abcc76c9537157a/raw/0918dcb2d822fdaa748515cab5b6b659b1a417a8/Projects)⚡⚡
+## ⚡⚡ Projetos já desenvolvidos: [Acessar Lista](https://gist.github.com/gabrieelaraujo/4f358b5e588c1eb39abcc76c9537157a)⚡⚡
 
 <!--
 **gabrieelaraujo/gabrieelaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
