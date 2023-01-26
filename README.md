@@ -10,7 +10,7 @@
 Sou o Gabriel Araujo, 27, Goiânia, Full Stack Developer, Engenheiro Mecatrônico, Empresário e apaixonado por tecnologia.
 
 - 💬 Desenvolvimento de e-commerce, plataformas: VTEX, Tray, Loja Integrada, WooCommerce. 
-- :office_worker: Desenvolvedor na [**Agência ZIG**](https://agenciazig.com.br) e Dono/Desenvolvedor da [**Galopêra Digital**](https://galopera.digital) 
+- :office_worker: Sócio/Desenvolvedor na [**Agência ZIG**](https://agenciazig.com.br)
 - :books: Estudando Apps, React Native e AWS :heart:
 - 🔭 Trabalhando no projeto de eSports no Brasil
 
