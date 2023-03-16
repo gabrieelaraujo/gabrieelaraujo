@@ -35,6 +35,9 @@ Sou o Gabriel Araujo, 27, Goiânia, Full Stack Developer, Engenheiro Mecatrônic
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
   ![googleanalytics](https://img.shields.io/badge/-Google%20Analytics-333333?style=flat&logo=googleanalytics)
+  ![prisma](https://img.shields.io/badge/-prisma-333333?style=flat&logo=prisma)
+  ![planetscale](https://img.shields.io/badge/-planetscale-333333?style=flat&logo=planetscale)
+  ![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
   
   
 **😄 Utilidades**
