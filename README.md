@@ -37,7 +37,7 @@ Sou o Gabriel Araujo, 30, Goiânia, Full Stack Developer, Empresário e apaixona
   ![prisma](https://img.shields.io/badge/-prisma-333333?style=flat&logo=prisma)
   ![planetscale](https://img.shields.io/badge/-planetscale-333333?style=flat&logo=planetscale)
   ![typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-  
+  ![supabase](https://img.shields.io/badge/-supabase-333333?style=flat&logo=supabase)
   
 **😄 Utilidades**
 
