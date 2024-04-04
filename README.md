@@ -6,10 +6,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leirbag182@gmail.com)](mailto:leirbag182@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-white?style=flat-square&logo=Spotify&logoColor=1DB954&color=000&link=https://open.spotify.com/user/gabriel_zig?si=zt3u-BWoTuakQoFiTi2A9A)](https://open.spotify.com/user/gabriel_zig?si=zt3u-BWoTuakQoFiTi2A9A)
 
-Sou o Gabriel Araujo, 28, Goiânia, Full Stack Developer, Empresário e apaixonado por tecnologia.
+Sou o Gabriel Araujo, 30, Goiânia, Full Stack Developer, Empresário e apaixonado por tecnologia.
 
 - 💬 Desenvolvimento de e-commerce, plataformas: VTEX, Tray, Loja Integrada, WooCommerce. 
-- :office_worker: Sócio/Desenvolvedor na [**Agência ZIG**](https://agenciazig.com.br)
+- :office_worker: Sócio e Diretor de Tecnologia na [**Agência ZIG**](https://agenciazig.com.br)
 - :books: Sempre estudando e aprendendo mais a cada dia :heart:
 - 🔭 Trabalhando no projeto de eSports no Brasil
 
