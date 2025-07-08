@@ -57,6 +57,7 @@ Sou o Gabriel Araujo, 30, Goiânia, Full Stack Developer, Empresário e apaixona
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
   ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobephotoshop)
+  ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma)
   
 ## ⚡⚡ Projetos já desenvolvidos: [Acessar Lista](https://gist.github.com/gabrieelaraujo/4f358b5e588c1eb39abcc76c9537157a)⚡⚡
   
